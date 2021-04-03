@@ -1,0 +1,3 @@
+In Class 26 you have learned abou Gitbash, creating a repository, and committing code to the repository.
+:)
+In this project, you will apply what you have learned in the class to achieve the following goals.
